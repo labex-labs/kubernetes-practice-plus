@@ -9,8 +9,8 @@ In this course, You will practice more labs of Kubernetes. This will help you to
 
 ## Scenarios
 
-|   Index | Name                                              | Difficulty   | URL                                                                        |
-|---------|---------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                             | Difficulty   | URL                                                                        |
+|---------|--------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Kubernetes Create Command                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8506'>Start Lab</a>         |
 |      02 | 🎯 Kubernetes Create Command                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/23727'>Start Challenge</a>  |
 |      03 | 📖 Kubernetes Expose Command                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8452'>Start Lab</a>         |
