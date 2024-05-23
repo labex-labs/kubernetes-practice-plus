@@ -9,7 +9,7 @@ In this course, You will practice more labs of Kubernetes. This will help you to
 
 ## Scenarios
 
-|   Index | Name                                             | Difficulty   | URL                                                                        |
+|   Index | Name                                             | Difficulty   | Practice                                                                   |
 |---------|--------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Kubernetes Create Command                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8506'>Start Lab</a>         |
 |      02 | 🎯 Kubernetes Create Command                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/23727'>Start Challenge</a>  |
@@ -80,4 +80,9 @@ In this course, You will practice more labs of Kubernetes. This will help you to
 |      67 | 🎯 Kubernetes Port-Forward Command                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/29063'>Start Challenge</a>  |
 |      68 | 🎯 Kubernetes Deployment Management               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7773'>Start Challenge</a>   |
 |      69 | 🎯 Examine Nodes with Kubectl                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18861'>Start Challenge</a>  |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
 
