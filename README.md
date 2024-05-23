@@ -83,6 +83,7 @@ In this course, You will practice more labs of Kubernetes. This will help you to
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Kubernetes Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Kubernetes Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
 
